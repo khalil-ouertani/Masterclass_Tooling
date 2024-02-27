@@ -1,5 +1,3 @@
 print("hello world")
 print("foo")
 print('bar')
-print("Khalil")
-print("Khali2")
